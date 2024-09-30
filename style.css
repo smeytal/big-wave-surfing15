@@ -1,0 +1,32 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 350px;
+}
+
+img:hover {
+  box-shadow: 0 0 12px 12px rgba(0, 140, 186, 0.5);
+}
+
+
+body{
+	background-color:Aqua;
+    font-family: "Quicksand", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+}
+
+.red{
+	color:red;	
+}
+
+.big_font{
+	font-size:32px;
+}
+
+#specialStyle{
+	background-color:yellow;
+	border: 2px solid red; 
+}
